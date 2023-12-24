@@ -8,9 +8,9 @@
     "build": "vite build"
   },
   "devDependencies": {
-    "vite": "^4.0.4"
+    "vite": "^5.0.10"
   },
   "dependencies": {
-    "three": "^0.148.0"
+    "three": "^0.160.0"
   }
 }
